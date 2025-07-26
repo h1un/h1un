@@ -1,9 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=9CCDFF&height=200&section=header&text=JEONG%20HA%20EUN&fontSize=70&fontColor=FFFFFF)
-
-[블로그](https://velog.io/@h1un/posts)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h1un&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h1un&layout=compact)
 
